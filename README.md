@@ -48,7 +48,7 @@
 />
 <img 
     align="left" 
-    alt="Flask 
+    alt="Flask"
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
