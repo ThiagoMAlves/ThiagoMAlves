@@ -49,10 +49,10 @@
 <img 
     align="left" 
     alt="Flask"
-    title="Python"
+    title="Flask"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg)" 
 />
 
 <br/>
